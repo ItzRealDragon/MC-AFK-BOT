@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "dodemc.falixsrv.me", 
+    "port": 29504,   
     "version": "1.12.1"   
   },
 
@@ -30,7 +30,7 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 60,
 
